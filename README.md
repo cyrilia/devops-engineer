@@ -1,0 +1,1 @@
+I have created this repository to document my learning journey towards my DevOps Engineer career. I already possess the cloud practitioner certification and notions that are essential to pursue the Engineer course. I am enthusiastic and try to allocate 10-20 hrs per week. Please feel free to access my notes and eventually leave comments on the content enclosed in this repo.
