@@ -1,0 +1,1 @@
+Hello, I am creating a sample text file in order to proceed with the bash scripting exercise. We are naming this file similarly to the corresponding script to avoid mixup 
